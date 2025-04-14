@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo APP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecenurl/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "ecce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ecenurl/PCAT/issues"
+  },
+  "homepage": "https://github.com/Ecenurl/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
